@@ -8,3 +8,5 @@ I also have a Telegram Channel where I'm vlogging and achieving many various thi
 Link: https://t.me/zypax /
 У меня также есть Телеграм Канал, где я снимаю влог и достигаю много разных вещей в моей жизни.
 Ссылка: https://t.me/zypax
+
+(the token in anipixx.py is expired btw)
